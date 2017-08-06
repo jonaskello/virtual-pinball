@@ -10,3 +10,6 @@ Buttons hole drilling:
 
 http://www.vpforums.org/index.php?showtopic=28014
 
+Playfield rear plastic trim:
+
+http://www.marcospecialties.com/pinball-parts/03-8091
