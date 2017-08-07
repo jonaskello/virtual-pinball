@@ -27,6 +27,8 @@ Length 51-1/2"
 
 * Plastic glass channel groove. Along the slope, route 3/32" wide, 3/8" deep.
 
+* Bottom groove.
+
 ## Cabinet Front
 
 Thickness 3/4"
@@ -44,6 +46,8 @@ Width 22"
 * Lockdown bar holes. Three DIA 9/32", center at 14-3/8" from bottom, first 4" from right edge, second 1-13/16 from left edge. The third hole is centered and shared with the top hole of the coindoor.
 
 * Plunger cutout.
+
+* Bottom groove.
 
 # References:
 
