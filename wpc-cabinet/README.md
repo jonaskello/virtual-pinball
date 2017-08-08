@@ -9,7 +9,7 @@ Some notes about the model:
 
 ## Joints
 
-There are several ways to make the joints. The original way is to use "lock mitre joints" but they require special tools. Newer cabinets like my LOTR uses a simpler joint. You can just make butt joints without any angles, just make sure to adjust the measurements accordingly.
+There are several ways to make the joints. The original way is to use "lock mitre joints" but they require a special routing but. Newer cabinets like my LOTR uses a simpler joint. You can just make butt joints without any angles, just make sure to adjust the measurements accordingly.
 
 # Components
 
@@ -21,13 +21,14 @@ Length 51-1/2"
 
 ### Cutouts
 
-* Flipper button hole. From the outside hole DIA 1-1/8" depth 5/16". From inside hole DIA 1-18" depth 3/16". Centered hole DIA 5/8" all the way through.
-
-* Backbox hinge hole. 20" from bottom, 1-1/2" from the back. Drill DIA 1/2".
-
-* Plastic glass channel groove. Along the slope, route 3/32" wide, 3/8" deep.
-
-* Bottom groove.
+| Cut            | Tool              | Description                        |
+| -------------- | ----------------- | ---------------------------------- |
+| Flipper button | 1-1/8" Drill      | 5/16" deep from outside.           |
+| Flipper button | 1-1/8" Drill      | 3/16" deep from inside.            |
+| Flipper button | 5/8" Drill        |                                    |
+| Backbox hinge  | 1/2" Drill        | 20" from bottom, 1-1/2" from back. |
+| Glass channel  | 3/32" slot cutter | 3/8" deep along the slope.         |
+| Bottom         | 3/4" router       | 3/8" from bottom.                  |
 
 ## Cabinet Front
 
@@ -37,17 +38,19 @@ Width 22"
 
 ### Cutouts
 
-* Bevel cut. At the top, bevel cut to outside height 15-5/8.
+| Cut            | Tool              | Description                        |
+| -------------- | ----------------- | ---------------------------------- |
+| Bevel top      | Saw               | Cut to outside height 15-5/8".     |
+| Start button   | 1-3/8" drill      | 1/2" deep from outside.            |
+| Start button   | 1" drill          |                                    |
+| Coindoor       | 1/4" router       | Rectangular, 12-1/4" width, 10-13/32" height. |
+| Coindoor       | 9/32" drill       | Four holes, centered on each edge, width 12-7/8 between hole centers, height 11-1/32" between hole centers. |
+| Lockdown bar   | 9/32" drill       | Center at 14-3/8" from bottom, first 4" from right edge, second 1-13/16 from left edge. The third hole is shared with the top hole of the coindoor.                  |
+| Plunger        | 3/4" drill        | One hole.                  |
+| Plunger        | 3/8" drill        | Three holes.                  |
+| Plunger        | 3/8" router       | Cut between the holes.                  |
+| Bottom         | 3/4" router       | 3/8" from bottom.                  |
 
-* Start button hole. From the outside DIA 1-3/8", depth 1/2". DIA 1" centered all the way through.
-
-* Coindoor cutout and holes. Rectangular cutout, 12-1/4" width, 10-13/32" height, corner radius 1/4". Four DIA 9/32" holes centered on each edge, width 12-7/8 between hole centers, height 11-1/32" between hole centers.
-
-* Lockdown bar holes. Three DIA 9/32", center at 14-3/8" from bottom, first 4" from right edge, second 1-13/16 from left edge. The third hole is centered and shared with the top hole of the coindoor.
-
-* Plunger cutout.
-
-* Bottom groove.
 
 # References:
 
@@ -58,4 +61,20 @@ Plunger drilling [template](http://mjrnet.org/pinscape/plunger-drilling.html).
 Buttons hole [drilling](http://www.vpforums.org/index.php?showtopic=28014).
 
 Playfield rear plastic [trim](http://www.marcospecialties.com/pinball-parts/03-8091).
+
+Glass channel:
+
+http://www.vpforums.org/index.php?showtopic=27208
+
+Speaker panel:
+
+https://nickpinball.files.wordpress.com/2014/05/10177927_10202613710638714_3017838795845787899_n.jpg
+
+http://www.ministryofpinball.com/en/wpc95-speaker-panel-with-chrome-williams-logo.html
+
+Speakers:
+
+http://dziedzic.us/wpc_speaker_replacement.html
+
+For games with a wooden display panel with a dot matrix display purchase a pair of 5-1/4 inch coaxial speakers
 
