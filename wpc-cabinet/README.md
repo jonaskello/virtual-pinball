@@ -44,8 +44,10 @@ Width 22"
 | Start button   | 1-3/8" drill      | 1/2" deep from outside.            |
 | Start button   | 1" drill          |                                    |
 | Coindoor       | 1/4" router       | Rectangular, 12-1/4" width, 10-13/32" height. |
-| Coindoor       | 9/32" drill       | Four holes, centered on each edge, width 12-7/8 between hole centers, height 11-1/32" between hole centers. |
-| Lockdown bar   | 9/32" drill       | Center at 14-3/8" from bottom, first 4" from right edge, second 1-13/16 from left edge. The third hole is shared with the top hole of the coindoor.                  |
+| Coindoor       | 9/32" drill       | Two holes centered on left/right edge, width 12-7/8 between centers. |
+| Coindoor       | 9/32" drill       | Two holes, centered on top/bottom edge, height 11-1/32" between centers. |
+| Lockdown bar   | 9/32" drill       | Center 14-3/8" from bottom, 4" from right edge.     |
+| Lockdown bar   | 9/32" drill       | Center 14-3/8" from bottom, 1-13/16 from left edge.     |
 | Plunger        | 3/4" drill        | One hole.                  |
 | Plunger        | 3/8" drill        | Three holes.                  |
 | Plunger        | 3/8" router       | Cut between the holes.                  |
