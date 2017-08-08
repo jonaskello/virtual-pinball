@@ -1,15 +1,15 @@
 
 # WPC Pinball Standard Body Cabinet Sketchup Model
 
-Some notes about the model:
+## Notes
 
-* The sides should have two holes for playfield support screws, but they are different for different playfields (atleast my IJ and STTNG have their holes at different places). So these holes are omitted.
+* The sides should have two holes for playfield support screws, but they are different for different playfields (at least my IJ and STTNG have their holes at different places). So these holes are omitted.
 
 * The joints are modelled as simple mitre joint. Both my IJ and STTNG uses "lock mitre joints". See below for more info on joints.
 
-## Joints
+## Cabinet Joints
 
-There are several ways to make the joints. The original way is to use "lock mitre joints" but they require a special routing but. Newer cabinets like my LOTR uses a simpler joint. You can just make butt joints without any angles, just make sure to adjust the measurements accordingly.
+There are several ways to make the cabinet joints. The original way is to use "lock mitre joints" but they require a special routing bit. Newer cabinets like my LOTR uses a simpler joint. You can just make butt joints without any angles, just make sure to adjust the measurements accordingly.
 
 # Components
 
@@ -19,7 +19,7 @@ Thickness 3/4"
 Height 23-1/2"
 Length 51-1/2"
 
-### Cutouts
+### Cuts
 
 | Cut            | Tool              | Description                        |
 | -------------- | ----------------- | ---------------------------------- |
@@ -36,7 +36,7 @@ Thickness 3/4"
 Height 15-3/4"
 Width 22"
 
-### Cutouts
+### Cuts
 
 | Cut            | Tool              | Description                        |
 | -------------- | ----------------- | ---------------------------------- |
@@ -64,9 +64,7 @@ Buttons hole [drilling](http://www.vpforums.org/index.php?showtopic=28014).
 
 Playfield rear plastic [trim](http://www.marcospecialties.com/pinball-parts/03-8091).
 
-Glass channel:
-
-http://www.vpforums.org/index.php?showtopic=27208
+Glass channel [tools](http://www.vpforums.org/index.php?showtopic=27208).
 
 Speaker panel:
 
