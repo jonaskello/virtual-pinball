@@ -1,7 +1,9 @@
 
-# WPC Pinball Standard Body Cabinet Sketchup Model
+# WPC Pinball Standard Body Cabinet Sketchup
 
 ## Notes
+
+* I started out in millimeters but many measurements did not make sense so I switched to inch. To convert to millimeters multiply by 25.4. 
 
 * The sides should have two holes for playfield support screws, but they are different for different playfields (at least my IJ and STTNG have their holes at different places). So these holes are omitted.
 
@@ -15,14 +17,11 @@ There are several ways to make the cabinet joints. The original way is to use "l
 
 ## Cabinet Left/Right Side
 
-Thickness 3/4"
-Height 23-1/2"
-Length 51-1/2"
-
-### Cuts
-
 | Cut            | Tool              | Description                        |
 | -------------- | ----------------- | ---------------------------------- |
+| Main Height    | 23-1/2"           |                                    |
+| Main Width     | 51-1/2"           |                                    |
+| Main Slope     | Saw               | Front height 15-5/8. Start 7-1/8" from back. |
 | Flipper button | 1-1/8" Drill      | 5/16" deep from outside.           |
 | Flipper button | 1-1/8" Drill      | 3/16" deep from inside.            |
 | Flipper button | 5/8" Drill        |                                    |
@@ -32,14 +31,10 @@ Length 51-1/2"
 
 ## Cabinet Front
 
-Thickness 3/4"
-Height 15-3/4"
-Width 22"
-
-### Cuts
-
 | Cut            | Tool              | Description                        |
 | -------------- | ----------------- | ---------------------------------- |
+| Main Height    | 15-3/4"           | Bevel cut 10 degrees. Outside height 15-5/8". |
+| Main Width     | 22"               |                                    |
 | Bevel top      | Saw               | Cut to outside height 15-5/8".     |
 | Start button   | 1-3/8" drill      | 1/2" deep from outside.            |
 | Start button   | 1" drill          |                                    |
@@ -52,6 +47,31 @@ Width 22"
 | Plunger        | 3/8" drill        | Three holes.                  |
 | Plunger        | 3/8" router       | Cut between the holes.                  |
 | Bottom         | 3/4" router       | 3/8" from bottom.                  |
+
+## Cabinet back
+
+| Cut            | Tool              | Description                        |
+| -------------- | ----------------- | ---------------------------------- |
+| Main Height    | 23-1/2"           |                                    |
+| Main Width     | 22"               |                                    |
+| Vent #1        | 1" Drill          | Two holes.                         |
+| Vent #1        | Router            | Rectangular width 6", height 2".   |
+| Vent #2        | 1" Drill          | Two holes.                         |
+| Vent #2        | Router            | Rectangular width 6", height 2".   |
+| Power cord     | 2-1/2 Drill       |                                    |
+| Power cord     | 5-1/16 Drill      | Four holes.                        |
+
+## Cabinet top
+
+| Cut            | Tool              | Description                        |
+| -------------- | ----------------- | ---------------------------------- |
+| Main Height    | 7-1/8"            | Bevel cut 10 degrees. Inner height 7". |
+| Main Width     | 22"               |                                    |
+| Backbox cables | 1/4" Router       | Rectangular width 8-1/8", height 3-1/8". |
+| Backbox nut #1 | 15/32" Drill      |                          |
+| Backbox nut #2 | 15/32" Drill      |                          |
+| Left joint     | >=3/4" Router     | 3/8 deep from bottom.       |
+| Right joint    | >=3/4" Router     | 3/8 deep from bottom.       |
 
 
 # References:
