@@ -7,6 +7,8 @@ The sketchup file is [here](wpc_cabinet.skp).
 
 To view the model download the [Sketchup Viewer](https://www.sketchup.com/products/sketchup-viewer). To edit the model download [Sketchup Make](https://www.sketchup.com/download?sketchup=make). Both these tools are free.
 
+If you find any mistakes in the model or the information below please open a [new issue](issues/new).
+
 Here is a screenshot from the model:
 
 ![Screenshot](screenshot.png)
@@ -25,7 +27,11 @@ Here is a screenshot from the model:
 
 There are several ways to make the cabinet joints. The original way it was done in WPC cabinets is to use "lock mitre joints" but they require a special routing [bit](https://www.verktygsproffsen.se/produkt/Cobolt-Hornforbindningsfras-med-12-mm-skaft). Newer cabinets like my Stren LOTR uses a simpler joint. Another option is to just make butt joints without any angles, just make sure to adjust the measurements accordingly.
 
-About lock mitre joints, see this [image](references/mitre-lock-joint.jpg) from this [thread](https://pinside.com/pinball/forum/topic/peanuts-pinball). Also see [this image](http://pinballmakers.com/wiki/index.php/File:Mitre-bit.png) from this [page](http://pinballmakers.com/wiki/index.php/Construction). And [this page](https://howtobuildapinballmachine.wordpress.com/tag/miter-lock/) has some more information.
+Below is a picuture of a lock mitre joint:
+
+![Lock Mitre Joint](references/lock_mitre_joint.jpg)
+
+About lock mitre joints, see this [image](references/mitre-lock-joint.jpeg) from this [thread](https://pinside.com/pinball/forum/topic/peanuts-pinball). Also see [this image](http://pinballmakers.com/wiki/index.php/File:Mitre-bit.png) from this [page](http://pinballmakers.com/wiki/index.php/Construction). And [this page](https://howtobuildapinballmachine.wordpress.com/tag/miter-lock/) has some more information.
 
 # Components
 
