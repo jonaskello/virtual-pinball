@@ -20,7 +20,7 @@ There are several ways to make the cabinet joints. The original way is to use "l
 ## Cabinet Left/Right Side
 
 | Cut            | Tool              | Description                        |
-| -------------- | ----------------- | ---------------------------------- |
+| :------------- | :---------------- | :--------------------------------- |
 | Main Height    | 23-1/2"           |                                    |
 | Main Width     | 51-1/2"           |                                    |
 | Main Slope     | Saw               | Front height 15-5/8. Start 7-1/8" from back. |
