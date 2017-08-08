@@ -29,8 +29,8 @@ There are several ways to make the cabinet joints. The original way is to use "l
 | Flipper button | 5/8" Drill        |                                    |
 | Backbox hinge  | 1/2" Drill        | 20" from bottom, 1-1/2" from back. |
 | Glass channel  | 3/32" slot cutter | 3/8" deep along the slope.         |
-| Leg Bolt Left  | 3/8" drill        | Two holes, 2 1/4 apart, in 45 degree angle.                |
-| Leg Bolt Right | 3/8" drill        | Two holes, 2 1/4 apart, in 45 degree angle.                |
+| Leg Bolt From  | 3/8" drill        | Two holes, 2 1/4 apart, in 45 degree angle.                |
+| Leg Bolt Back | 3/8" drill        | Two holes, 2 1/4 apart, in 45 degree angle.                |
 | Bottom joint   | 3/4" router       | 1/4" deep. 3/8" from bottom.  |
 
 ## Cabinet Front
@@ -66,6 +66,8 @@ There are several ways to make the cabinet joints. The original way is to use "l
 | Vent #2        | Router            | Rectangular width 6", height 2".   |
 | Power cord     | 2-1/2 Drill       |                                    |
 | Power cord     | 5-1/16 Drill      | Four holes.                        |
+| Leg Bolt Left  | 3/8" drill        | Two holes, 2 1/4 apart, in 45 degree angle.                |
+| Leg Bolt Right | 3/8" drill        | Two holes, 2 1/4 apart, in 45 degree angle.                |
 | Bottom joint   | 3/4" router       | 1/4" deep. 3/8" from bottom.  |
 
 ## Cabinet Top
