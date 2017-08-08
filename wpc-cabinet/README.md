@@ -1,15 +1,23 @@
 
 # WPC Pinball Standard Body Cabinet Sketchup
 
+This is a sketchup model of a pinball cabinet in standard WPC body style. I did this model to have a starting point for designing a virtual pinball cabinet.
+
+The sketchup file is [here](wpc_cabinet.skp).
+
 To view the model download the [Sketchup Viewer](https://www.sketchup.com/products/sketchup-viewer). To edit the model download [Sketchup Make](https://www.sketchup.com/download?sketchup=make). Both these tools are free.
+
+Here is a screenshot from the model:
+
+![Screenshot](screenshot.png)
 
 ## Notes
 
-* The model is made from measurements taken from my STTNG and IJ widebody games, but converted to standard body width. In addition to taking measurements from the physcial games I cross-checked with information found online which I have listed in [references](#References). Some measurements are only from online sources since they were hard to do without tearing down the games.
+* The model is made from measurements taken from my STTNG and IJ widebody games, but converted to standard body width. In addition to taking measurements from the physcial games I cross-checked with information found online which I have listed in [references](#references). Some measurements are only from online sources since they were hard to do without tearing down the games.
 
 * I started out in millimeters but many measurements did not make sense so I switched to inch. To convert to millimeters multiply by 25.4. 
 
-* The sides should have two holes for playfield support screws, but they are different for different playfields (at least my IJ and STTNG have their holes at different places). So these holes are omitted.
+* The sides should have two holes for playfield support screws, but they are different for different playfields (at least my IJ and STTNG have their holes at different places). So those holes are omitted in the model.
 
 * The joints are modelled as simple mitre joint. Both my IJ and STTNG uses "lock mitre joints". See below for more info on joints.
 
@@ -17,7 +25,7 @@ To view the model download the [Sketchup Viewer](https://www.sketchup.com/produc
 
 There are several ways to make the cabinet joints. The original way it was done in WPC cabinets is to use "lock mitre joints" but they require a special routing [bit](https://www.verktygsproffsen.se/produkt/Cobolt-Hornforbindningsfras-med-12-mm-skaft). Newer cabinets like my Stren LOTR uses a simpler joint. Another option is to just make butt joints without any angles, just make sure to adjust the measurements accordingly.
 
-About lock mitre joints, see this [image](mitre-lock-joint.jpg) from this [thread](https://pinside.com/pinball/forum/topic/peanuts-pinball). Also see [this image](http://pinballmakers.com/wiki/index.php/File:Mitre-bit.png) from this [page](http://pinballmakers.com/wiki/index.php/Construction). And [this page](https://howtobuildapinballmachine.wordpress.com/tag/miter-lock/) has some more information.
+About lock mitre joints, see this [image](references/mitre-lock-joint.jpg) from this [thread](https://pinside.com/pinball/forum/topic/peanuts-pinball). Also see [this image](http://pinballmakers.com/wiki/index.php/File:Mitre-bit.png) from this [page](http://pinballmakers.com/wiki/index.php/Construction). And [this page](https://howtobuildapinballmachine.wordpress.com/tag/miter-lock/) has some more information.
 
 # Components
 
@@ -144,10 +152,21 @@ About lock mitre joints, see this [image](mitre-lock-joint.jpg) from this [threa
 | Left hinge bracket | 1/4" Drill    | Three holes, 1-3/4" apart. 1/2" from back. |
 | Right hinge bracket | 1/4" Drill    | Three holes, 1-3/4" apart. 1/2" from back. |
 
+# Ready-made
+
+If you want to purchase a ready-made cabinet here are some sites that sell them:
+
+[VirtuaPin](http://virtuapin.net/index.php?main_page=index&cPath=2)
+
+http://www.vpin-shop.de/
+
+http://www.kase-eo.co.uk/
 
 # References
 
 The files from these references are avaialble in the [references](references) folder.
+
+Mameman pinball [plans](http://vpuniverse.com/forums/topic/171-plans-williams-widebody-cabinet-plans/).
 
 Some nice CAD drawings in this [thread](https://pinside.com/pinball/forum/topic/bally-wms-cabinet-designs-help-needed).
 
