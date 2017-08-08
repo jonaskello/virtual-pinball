@@ -5,6 +5,8 @@ To view the model download the [Sketchup Viewer](https://www.sketchup.com/produc
 
 ## Notes
 
+* The model is made from measurements taken from my STTNG and IJ widebody games, but converted to standard body width. In addition to taking measurements from the physcial games I cross-checked with information found online which I have listed in [references](#References). Some measurements are only from online sources since they were hard to do without tearing down the games.
+
 * I started out in millimeters but many measurements did not make sense so I switched to inch. To convert to millimeters multiply by 25.4. 
 
 * The sides should have two holes for playfield support screws, but they are different for different playfields (at least my IJ and STTNG have their holes at different places). So these holes are omitted.
@@ -13,7 +15,9 @@ To view the model download the [Sketchup Viewer](https://www.sketchup.com/produc
 
 ## Cabinet Joints
 
-There are several ways to make the cabinet joints. The original way is to use "lock mitre joints" but they require a special routing bit. Newer cabinets like my LOTR uses a simpler joint. You can just make butt joints without any angles, just make sure to adjust the measurements accordingly.
+There are several ways to make the cabinet joints. The original way it was done in WPC cabinets is to use "lock mitre joints" but they require a special routing [bit](https://www.verktygsproffsen.se/produkt/Cobolt-Hornforbindningsfras-med-12-mm-skaft). Newer cabinets like my Stren LOTR uses a simpler joint. Another option is to just make butt joints without any angles, just make sure to adjust the measurements accordingly.
+
+About lock mitre joints, see this [image](mitre-lock-joint.jpg) from this [thread](https://pinside.com/pinball/forum/topic/peanuts-pinball). Also see [this image](http://pinballmakers.com/wiki/index.php/File:Mitre-bit.png) from this [page](http://pinballmakers.com/wiki/index.php/Construction). And [this page](https://howtobuildapinballmachine.wordpress.com/tag/miter-lock/) has some more information.
 
 # Components
 
@@ -143,6 +147,8 @@ There are several ways to make the cabinet joints. The original way is to use "l
 
 # References
 
+The files from these references are avaialble in the [references](references) folder.
+
 Some nice CAD drawings in this [thread](https://pinside.com/pinball/forum/topic/bally-wms-cabinet-designs-help-needed).
 
 Plunger drilling [template](http://mjrnet.org/pinscape/plunger-drilling.html).
@@ -152,3 +158,5 @@ Buttons hole [drilling](http://www.vpforums.org/index.php?showtopic=28014).
 Playfield rear plastic [trim](http://www.marcospecialties.com/pinball-parts/03-8091).
 
 Glass channel [tools](http://www.vpforums.org/index.php?showtopic=27208).
+
+Coin door [measurements](http://www.actionpinball.com/pics/coindoor1_specs.gif).
