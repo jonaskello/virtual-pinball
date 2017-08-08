@@ -13,6 +13,8 @@ The screens are the most important parts because they are only avialble in certa
 
 According to Sketchup.
 
+http://www.space-eight.com/Downloads.html
+
 # Speaker Panel
 
 As mentioned [here](https://nickpinball.wordpress.com/tag/virtual-cabinet/), to get an authentic feel, purchase a Williams original speaker panel as avaialble [here](http://www.ministryofpinball.com/en/wpc95-speaker-panel-with-chrome-williams-logo.html).
@@ -37,7 +39,7 @@ Since we're replacing the existing "wide range" cabinet speaker with a woofer we
 
 ## Case
 
-For mounting the PC we don't need a full case. An open "test bench case" will be enough and maybe better from a cooling standpoint. Some examples:
+For mounting the PC we don't need a full case. An open "test bench case" as used [here](http://thingsnotleftunsaid.blogspot.se/2015/06/virtual-pinball-machine-build_30.html) will be enough and maybe better from a cooling standpoint. Some examples:
 
 * [QDIY-PC-JMK6](
 https://www.aliexpress.com/item/QDIY-PC-JMK6-ATX-Aluminum-Alloy-Horizontal-Full-Open-Computer-Case-Chassis/32360817006.html)
@@ -59,4 +61,8 @@ TODO!
 # Tactile drivers
 
 TODO!
+
+# References
+
+http://thingsnotleftunsaid.blogspot.se/2015/06/virtual-pinball-machine-build_30.html
 
