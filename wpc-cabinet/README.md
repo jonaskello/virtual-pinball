@@ -20,7 +20,7 @@ There are several ways to make the cabinet joints. The original way is to use "l
 ## Cabinet Left/Right Side
 
 | Cut            | Tool              | Description                        |
-| :------------- | :---------------- | :--------------------------------- |
+|:-------------- |:----------------- |:---------------------------------- |
 | Main Height    | 23-1/2"           |                                    |
 | Main Width     | 51-1/2"           |                                    |
 | Main Slope     | Saw               | Front height 15-5/8. Start 7-1/8" from back. |
@@ -34,7 +34,7 @@ There are several ways to make the cabinet joints. The original way is to use "l
 ## Cabinet Front
 
 | Cut            | Tool              | Description                        |
-| -------------- | ----------------- | ---------------------------------- |
+|:-------------- |:----------------- |:---------------------------------- |
 | Main Height    | 15-3/4" / 15-5/8" | Bevel cut 10 degrees. Outside height 15-5/8". |
 | Main Width     | 22"               |                                    |
 | Bevel top      | Saw               | Cut to outside height 15-5/8".     |
@@ -53,7 +53,7 @@ There are several ways to make the cabinet joints. The original way is to use "l
 ## Cabinet Back
 
 | Cut            | Tool              | Description                        |
-| -------------- | ----------------- | ---------------------------------- |
+|:-------------- |:----------------- |:---------------------------------- |
 | Main Height    | 23-1/2"           |                                    |
 | Main Width     | 22"               |                                    |
 | Vent #1        | 1" Drill          | Two holes.                         |
@@ -67,7 +67,7 @@ There are several ways to make the cabinet joints. The original way is to use "l
 ## Cabinet Top
 
 | Cut            | Tool              | Description                        |
-| -------------- | ----------------- | ---------------------------------- |
+|:-------------- |:----------------- |:---------------------------------- |
 | Main Height    | 7-1/8" / 7"       | Bevel cut 10 degrees. Inner height 7". |
 | Main Width     | 22"               |                                    |
 | Backbox cables | 1/4" Router       | Rectangular width 8-1/8", height 3-1/8". |
@@ -79,7 +79,7 @@ There are several ways to make the cabinet joints. The original way is to use "l
 ## Cabinet Bottom
 
 | Cut            | Tool              | Description                        |
-| -------------- | ----------------- | ---------------------------------- |
+|:-------------- |:----------------- |:---------------------------------- |
 | Main Height    | 50-1/2"           |                                    |
 | Main Width     | 21"               |                                    |
 | Speaker        | 5-1/2 hole saw    |                                    |
@@ -90,7 +90,7 @@ There are several ways to make the cabinet joints. The original way is to use "l
 ## Backbox Left/Right Side
 
 | Cut            | Tool              | Description                        |
-| -------------- | ----------------- | ---------------------------------- |
+|:-------------- |:----------------- |:---------------------------------- |
 | Main Height    | 28-1/2"           |                                    |
 | Main Width     | 9-7/8"            |             |
 | Main Slope     | Saw               | Botttom width 6-3/8".              |
@@ -103,7 +103,7 @@ There are several ways to make the cabinet joints. The original way is to use "l
 ## Backbox Back
 
 | Cut            | Tool              | Description                        |
-| -------------- | ----------------- | ---------------------------------- |
+|:-------------- |:----------------- |:---------------------------------- |
 | Main Height    | 28-1/8"           |                                    |
 | Main Width     | 28"               |                                    |
 | Vent           | 1-1/2 Drill       | Seven holes, 2-1/2 between centers.|
@@ -111,7 +111,7 @@ There are several ways to make the cabinet joints. The original way is to use "l
 ## Backbox Top
 
 | Cut            | Tool              | Description                        |
-| -------------- | ----------------- | ---------------------------------- |
+|:-------------- |:----------------- |:---------------------------------- |
 | Main Height    | 9-7/8"            |                                    |
 | Main Width     | 28"               | Front bevel cut 7 degrees.         |
 | Left joint     | >=3/4" Router     | 3/8" from top. 3/8" deep.          |
@@ -123,7 +123,7 @@ There are several ways to make the cabinet joints. The original way is to use "l
 ## Backbox Bottom
 
 | Cut            | Tool              | Description                        |
-| -------------- | ----------------- | ---------------------------------- |
+|:-------------- |:----------------- |:---------------------------------- |
 | Main Height    | 5-23/32"          | Front bevel cut 7 degrees. Bottom height 5-5/8". |
 | Main Width     | 28"               |          |
 | Left joint     | >=3/4" Router     | 3/8" from bottom. 3/8" deep.       |
@@ -146,16 +146,3 @@ Buttons hole [drilling](http://www.vpforums.org/index.php?showtopic=28014).
 Playfield rear plastic [trim](http://www.marcospecialties.com/pinball-parts/03-8091).
 
 Glass channel [tools](http://www.vpforums.org/index.php?showtopic=27208).
-
-Speaker panel:
-
-https://nickpinball.files.wordpress.com/2014/05/10177927_10202613710638714_3017838795845787899_n.jpg
-
-http://www.ministryofpinball.com/en/wpc95-speaker-panel-with-chrome-williams-logo.html
-
-Speakers:
-
-http://dziedzic.us/wpc_speaker_replacement.html
-
-For games with a wooden display panel with a dot matrix display purchase a pair of 5-1/4 inch coaxial speakers
-
