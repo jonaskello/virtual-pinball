@@ -152,16 +152,6 @@ About lock mitre joints, see this [image](references/mitre-lock-joint.jpg) from 
 | Left hinge bracket | 1/4" Drill    | Three holes, 1-3/4" apart. 1/2" from back. |
 | Right hinge bracket | 1/4" Drill    | Three holes, 1-3/4" apart. 1/2" from back. |
 
-# Ready-made
-
-If you want to purchase a ready-made cabinet here are some sites that sell them:
-
-[VirtuaPin](http://virtuapin.net/index.php?main_page=index&cPath=2)
-
-http://www.vpin-shop.de/
-
-http://www.kase-eo.co.uk/
-
 # References
 
 The files from these references are avaialble in the [references](references) folder.
