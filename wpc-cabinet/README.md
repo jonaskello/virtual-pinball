@@ -23,6 +23,10 @@ Here is a screenshot from the model:
 
 * The joints are modelled as simple mitre joint. Both my IJ and STTNG uses "lock mitre joints". See below for more info on joints.
 
+## Material
+
+All components should be made of 3/4" thick birch playwood.
+
 ## Cabinet Joints
 
 There are several ways to make the cabinet joints. The original way it was done in WPC cabinets is to use "lock mitre joints" but they require a special routing [bit](https://www.verktygsproffsen.se/produkt/Cobolt-Hornforbindningsfras-med-12-mm-skaft). Newer cabinets like my Stren LOTR uses a simpler joint. Another option is to just make butt joints without any angles, just make sure to adjust the measurements accordingly.
