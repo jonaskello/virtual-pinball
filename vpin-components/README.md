@@ -15,6 +15,10 @@ According to Sketchup.
 
 http://www.space-eight.com/Downloads.html
 
+# Ventilation
+
+Fans in the cabinet bottom at the front to take in air, and fans at the cabinet back to exhaust air. 
+
 # Speaker Panel
 
 As mentioned [here](https://nickpinball.wordpress.com/tag/virtual-cabinet/), to get an authentic feel, purchase a Williams original speaker panel as avaialble [here](http://www.ministryofpinball.com/en/wpc95-speaker-panel-with-chrome-williams-logo.html).
