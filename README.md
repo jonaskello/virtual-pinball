@@ -56,12 +56,21 @@ If the playfield screen do not fit in the cabinet you have these options:
 * The inner width of a standard backbox with 3/4" plywood is **27-1/4"** (28-3/4" - 2 * 3/4").
 * The inner width of a standard backbox with 18 mm plywood is **694,25 mm** (28-3/4" * 25,4 - 2 * 18).
 * With a slide-in groove of 12 mm width becomes **718,25 mm** (694,25 + 12 * 2).
+* The inner height of a standard backbox with 3/4" plywood is **27"** (28-1/2" - 2 * 3/4").
+* The inner height of a standard backbox with 18 mm plywood is **687,9 mm** (28,5 * 25,4 - 2 * 18).
+* The speaker panel including it's top H bracket covers 8-1/4" (209,55 mm) of the backbox's inner height which leaves 17-3/4" (450,85 mm) to be covered by the backglass screen and additional spacing.
 
 If the backglass screen do not fit in the backbox you have these options:
 
 * Decase the screen. If not enough, can be combined with the below options.
 * Route a groove on each backbox side and slide in the screen from the top.
 * Build the backbox wider than standard.
+
+Ideas for covering the height not covered by the backglass monitor:
+
+* Build speaker panel width non standard height, see example in this [thread](http://vpinball.com/forums/topic/new-build-complete/).
+* Put a glass (acrylic or regular tempered) in front with black borders, mounted as a backglass on a regular machine.
+* Put some plywood over and under the screen?
 
 ### DMD Screen
 
