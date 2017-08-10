@@ -15,28 +15,21 @@ Original WPC style cabinet sketchup plans can be found [here](https://github.com
 
 http://www.space-eight.com/Downloads.html
 
-
 # Screens
 
 The screens are the most important parts because they are only avialble in certain fixed sizes. So the cabinet need to built to fit the screens which means we need to select screens before building the cabinet. In order to fully simulate a WPC pinball machine three screens are needed:
 
-* Playfield screen
-* Backglass screen
-* DMD screen
-
-## Playfield Screen
-
-For the playfield screen we want to have as little input lag as possible, and the best viewing angle possible.
-
-## Backglass Screen
-
-The backglass screen just displays a static image so not sure what we need to consider here?
+| Screen    | Considerations    |
+|:--------- |:----------------- |
+| Playfield | For the playfield screen we want to have as little input lag as possible, and the best viewing angle possible. |
+| Backglass | The backglass screen just displays a static image so not sure what we need to consider here? |
+| DMD       | Either use a real DMD such as [pindmd](http://www.pindmd.com/) or a monitor. |
 
 ## Decasing
 
 In order to fit screens they may have to be decased, which means the outer plastic is removed. Some screens have no internal metal holding the screen together so if it is opened it will break. So be careful when decasing.
 
-## Screens to use
+## Screen Models
 
 | Screen    | Model             | Size with bezel | Size decased | Resolution      | Link    |
 |:--------- |:----------------- |:--------------- |:------------ |:--------------- |:------ |
@@ -46,6 +39,11 @@ In order to fit screens they may have to be decased, which means the outer plast
 
 
 # Buttons & External Connections
+
+## Types of buttons
+
+* Flipper buttons
+* Start buttons
 
 ## Cabinet Side
 
