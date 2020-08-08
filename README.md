@@ -49,6 +49,8 @@ If the playfield screen do not fit in the cabinet you have these options:
     * CON: Custom playfield glass.
     * CON: Need to cover the edges of the screen (black borders on the side).
 
+See [this page](http://mjrnet.org/pinscape/BuildGuideV2/BuildGuide.php?sid=playfieldTV) for more discussion about these options.
+
 ### Backglass Screen
 
 * Static image displayed from front so input lag or viewing angle is not that important.
