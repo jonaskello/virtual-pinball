@@ -86,7 +86,7 @@ Ideas for covering the height not covered by the backglass monitor:
 |:--------- |:----------------- |:--------|:-------------- |:----------|:------------- |:------------ |:---------------- |:------- |
 | Playfield | Philips BDM4350UC | 42.51"  | 941.2 x 529.4  | 968 x 562 | -39.2         | Unknown      | 4K (3840 x 2160) | [Link](http://download.p4c.philips.com/files/b/bdm4350uc_00/bdm4350uc_00_pss_engph.pdf) |
 | Playfield | PROLITE X4071UHSU-B1 | 40.0"  | 879.5 x 487.0  | 906.5 x 520.5 | +2.3         | Unknown      | 4K (3840 x 2160) | [Link](https://iiyama.com/gl_en/products/prolite-x4071uhsu-b1/) |
-| Playfield | Samsung UE40MU64xx | 40.0"  | 879.5 x 487.0  | 903.7 x 519.8 | +3.0         | Unknown      | 4K (3840 x 2160) | [Link1](https://www.displayspecifications.com/en/model/725fcbb) [Link2](https://www.displayspecifications.com/en/model/d61db42) |
+| Playfield | Samsung UE40MU64xx | 40.0"  | 885.5 x 498.1  | 903.7 x 519.8 | +3.0         | Unknown      | 4K (3840 x 2160) | [Link1](https://www.displayspecifications.com/en/model/725fcbb) [Link2](https://www.displayspecifications.com/en/model/d61db42) |
 | Backglass | Philips 323E7QDAB | 31.5"   | 698.4 x 392.85 | 703 x 431 | -8.75         | Unknown      | 1920 x 1080      | [Link](https://www.philips.co.uk/c-p/323E7QDAB_00/lcd-display/specifications) |
 
 
