@@ -85,6 +85,7 @@ Ideas for covering the height not covered by the backglass monitor:
 | Screen    | Model             | Inch    | Viewable (mm)  | Case (mm) | Case fit (mm) | Decased (mm) | Resolution       | Link    |
 |:--------- |:----------------- |:--------|:-------------- |:----------|:------------- |:------------ |:---------------- |:------- |
 | Playfield | Philips BDM4350UC | 42.51"  | 941.2 x 529.4  | 968 x 562 | -39,2         | Unknown      | 4K (3840 x 2160) | [Link](http://download.p4c.philips.com/files/b/bdm4350uc_00/bdm4350uc_00_pss_engph.pdf) |
+| Playfield | PROLITE X4071UHSU-B1 | 40.0"  | 879.5 x 487.0  | 906.5 x 520.5 | +2,3         | Unknown      | 4K (3840 x 2160) | [Link](https://iiyama.com/gl_en/products/prolite-x4071uhsu-b1/) |
 | Backglass | Philips 323E7QDAB | 31.5"   | 698.4 x 392.85 | 703 x 431 | -8,75         | Unknown      | 1920 x 1080      | [Link](https://www.philips.co.uk/c-p/323E7QDAB_00/lcd-display/specifications) |
 
 
