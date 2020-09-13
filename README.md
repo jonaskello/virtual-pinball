@@ -84,8 +84,8 @@ Ideas for covering the height not covered by the backglass monitor:
 
 | Model             | Inch    | Viewable (mm)  | Case (mm) | Case fit (mm) | Decased (mm) | Resolution       | Lag    | Link    |
 |:----------------- |:--------|:-------------- |:----------|:------------- |:------------ |:---------------- |:------- |:------- |
-| Philips BDM4350UC | 42.51"  | 941.2 x 529.4  | 968 x 562 | -39.2         | Unknown      | 4K (3840 x 2160) | X ms | [Link](http://download.p4c.philips.com/files/b/bdm4350uc_00/bdm4350uc_00_pss_engph.pdf) |
-| PROLITE X4071UHSU-B1 | 40.0"  | 879.5 x 487.0  | 906.5 x 520.5 | +2.3         | Unknown      | 4K (3840 x 2160) | X ms | [Link](https://iiyama.com/gl_en/products/prolite-x4071uhsu-b1/) |
+| Philips BDM4350UC | 42.51"  | 941.2 x 529.4  | 968 x 562 | -39.2         | Unknown      | 4K (3840 x 2160) | 28 ms | [Link](http://download.p4c.philips.com/files/b/bdm4350uc_00/bdm4350uc_00_pss_engph.pdf) |
+| PROLITE X4071UHSU-B1 | 40.0"  | 879.5 x 487.0  | 906.5 x 520.5 | +2.3         | Unknown      | 4K (3840 x 2160) | 20 ms | [Link](https://iiyama.com/gl_en/products/prolite-x4071uhsu-b1/) |
 | Samsung UE40MU64xx (2017) | 40.0"  | 885.5 x 498.1  | 903.7 x 519.8 | +3.0         | Unknown      | 4K (3840 x 2160) | 19 ms | [Link1](https://www.displayspecifications.com/en/model/725fcbb) [Link2](https://www.displayspecifications.com/en/model/d61db42) |
 | Samsung UE40KU64xx (2016) | 40.0"  | X x X  | 905.7 x 520.6 | +2.2         | Unknown      | 4K (3840 x 2160) | 23 ms | [Link1](https://www.displayspecifications.com/en/model/fc98782) [Link2](https://www.displayspecifications.com/en/model/3051574) |
 
