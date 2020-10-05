@@ -88,6 +88,7 @@ Ideas for covering the height not covered by the backglass monitor:
 | PROLITE X4071UHSU-B1 | 40.0"  | 879.5 x 487.0  | 906.5 x 520.5 | +2.3         | Unknown      | 4K (3840 x 2160) | 20 ms | [Link](https://iiyama.com/gl_en/products/prolite-x4071uhsu-b1/) |
 | Samsung UE40MU64xx (2017) | 40.0"  | 885.5 x 498.1  | 903.7 x 519.8 | +3.0         | Unknown      | 4K (3840 x 2160) | 19 ms | [Link1](https://www.displayspecifications.com/en/model/725fcbb) [Link2](https://www.displayspecifications.com/en/model/d61db42) |
 | Samsung UE40KU64xx (2016) | 40.0"  | X x X  | 905.7 x 520.6 | +2.2         | Unknown      | 4K (3840 x 2160) | 23 ms | [Link1](https://www.displayspecifications.com/en/model/fc98782) [Link2](https://www.displayspecifications.com/en/model/3051574) |
+| Panasonic TX-40DX600E | 40.0"  | X x X  | 904 x 518 | +4.8         | Unknown      | 4K (3840 x 2160) | Unknown | [Link1](https://www.panasonic.com/se/consumer/utgangna-produkter/viera-tv/4k/tx-40dx600e.specs.html) |
 
 
 
